@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/gouse-dropdown/static/css/main.23b9a116.chunk.css",
+    "main.js": "/gouse-dropdown/static/js/main.6c22cde9.chunk.js",
+    "main.js.map": "/gouse-dropdown/static/js/main.6c22cde9.chunk.js.map",
+    "runtime-main.js": "/gouse-dropdown/static/js/runtime-main.1b06110e.js",
+    "runtime-main.js.map": "/gouse-dropdown/static/js/runtime-main.1b06110e.js.map",
+    "static/css/2.44c4b644.chunk.css": "/gouse-dropdown/static/css/2.44c4b644.chunk.css",
+    "static/js/2.2c5a16f4.chunk.js": "/gouse-dropdown/static/js/2.2c5a16f4.chunk.js",
+    "static/js/2.2c5a16f4.chunk.js.map": "/gouse-dropdown/static/js/2.2c5a16f4.chunk.js.map",
+    "index.html": "/gouse-dropdown/index.html",
+    "precache-manifest.dd0773e5803b7e6085c168e1abad1cfa.js": "/gouse-dropdown/precache-manifest.dd0773e5803b7e6085c168e1abad1cfa.js",
+    "service-worker.js": "/gouse-dropdown/service-worker.js",
+    "static/css/2.44c4b644.chunk.css.map": "/gouse-dropdown/static/css/2.44c4b644.chunk.css.map",
+    "static/css/main.23b9a116.chunk.css.map": "/gouse-dropdown/static/css/main.23b9a116.chunk.css.map",
+    "static/js/2.2c5a16f4.chunk.js.LICENSE": "/gouse-dropdown/static/js/2.2c5a16f4.chunk.js.LICENSE",
+    "static/media/primereact.min.css": "/gouse-dropdown/static/media/line.567f5738.gif",
+    "static/media/theme.css": "/gouse-dropdown/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/gouse-dropdown/static/media/primeicons.e5e0e944.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b06110e.js",
+    "static/css/2.44c4b644.chunk.css",
+    "static/js/2.2c5a16f4.chunk.js",
+    "static/css/main.23b9a116.chunk.css",
+    "static/js/main.6c22cde9.chunk.js"
+  ]
+}
