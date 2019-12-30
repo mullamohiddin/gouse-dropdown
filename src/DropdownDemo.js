@@ -193,7 +193,53 @@ const AutosuggestWrapper = styled.div.attrs(classNames)`
   .p-highlight {
     background-color: white !important;
   }
-}
+  @media (min-width: 767px) {
+   .p-dropdown {
+      min-width:11.5em;
+      font-size: 12px;
+    }
+    .p-inputtext {
+      font-size: 12px;
+    }
+   .body {
+     font-size: 8px;
+   }
+   .my-style {
+   padding: 1%;
+   border: 1px solid #a6a6a6;
+   width: 30%;
+   background: #a6a6a6;
+   margin-left: 10%;
+ }
+ .p-component {
+   font-size: 12px;
+ }
+ 
+ }
+ 
+ @media (min-width: 400px) {
+    .p-dropdown {
+      min-width:11.5em;
+      font-size: 12px;
+    }
+    .p-inputtext {
+      font-size: 12px;
+    }
+   .body {
+     font-size: 8px;
+   }
+   .my-style {
+   padding: 1%;
+   border: 1px solid #a6a6a6;
+   width: 30%;
+   background: #a6a6a6;
+   margin-left: 10%;
+ }
+ .p-component {
+   font-size: 12px;
+ }
+    }
+
 `
         return (
             <AutosuggestWrapper className="my-style">
